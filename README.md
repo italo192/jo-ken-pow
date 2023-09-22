@@ -2,8 +2,6 @@
 
 **Autor:** Italo Oliveira
 
-![Captura de Tela](screenshot.png) <!-- Se tiver uma captura de tela do projeto -->
-
 ## Descrição do Projeto
 
 Este é um jogo simples de Pedra, Papel e Tesoura (Jokenpô) criado em Python usando a biblioteca tkinter. O jogo permite que o jogador escolha entre Pedra, Papel ou Tesoura e jogue contra o computador. O objetivo é acumular pontos e vencer o computador em um determinado número de rodadas.
